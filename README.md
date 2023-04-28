@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DrZebraZ;
+- 👋 Hi, I’m Luis Andres but u can call me Zebra;
 - 👀 I’m interested in BackEnd;
 - 🌱 I’m currently learning NodeJS, SpringBoot and a little of React;
 - 🏢 I'm open to work;
