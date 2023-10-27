@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Andres but u can call me Zebra;
-- 💻 I’m interested in FullStack Development;
-- 📚 I’m currently learning NodeJS, and React;
+- 💻 I’m interested in FullStack Development but have focus on BackEnd;
+- 📚 I’m currently working with NodeJS, Java, Python and React;
 - 🏢 I'm open to work;
 - 📨 How to reach me: you can contact me by e-mail - luisandres.dev@gmail.com;
 - 🦓 My LinkedIn is: https://www.linkedin.com/in/luis-andres-187990176/;
